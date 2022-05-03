@@ -177,7 +177,7 @@
         img(src='@/assets/curso/tema1/t1_15.svg', alt='').img350.m-auto
       .col-auto.mb-4(data-aos="zoom-in")  
         img(src='@/assets/curso/tema1/t1_16.svg', alt='').img350.m-auto
-      .col-auto.mb-4 (data-aos="zoom-in") 
+      .col-auto.mb-4(data-aos="zoom-in") 
         img(src='@/assets/curso/tema1/t1_17.svg', alt='').img350.m-auto
 
     .row.justify-content-center.align-items-center.mb-5
