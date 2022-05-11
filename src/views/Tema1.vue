@@ -24,7 +24,7 @@
       h2 1.1 Clasificación de procesos
 
     .row.justify-content-center.mb-5
-      .col-lg-8
+      .col-lg-8.mb-4.mb-lg-0
         p El término procedimiento se refiere a una secuencia de acciones concretas y organizadas que pueden ser administrativas u operativas en el cumplimiento de un proceso o actividad, está estructurado con un comienzo, un desarrollo y una finalización, habitualmente soportado con una normativa. Dado este argumento, para la estructuración de perfiles de acuerdo con los cargos según metodologías y normativa, se identifica el manual de funciones que establece un protocolo para la ubicación laboral y las competencias que se requieren, desarrollando conceptos para la gestión de los funcionarios en todos los cargos, siendo esta una de las bases para el cumplimiento de objetivos de la organización. 
 
         p.mb-0 Enfocados en que el aprendiz comprenda e interiorice de manera integral la secuencia para estructurar e identificar cargos, se desglosan los siguientes conceptos que definen los criterios generales para la identificación de funciones laborales.
@@ -55,7 +55,7 @@
     h3.cstmH3--blue.mb-4 Concepto 3 - Funciones principales 
 
     .row.justify-content-center.mb-5
-      .col-lg-6
+      .col-lg-6.mb-4.mb-lg-0
         p Identificar las funciones del cargo es primordial para la gestión y la medición del desempeño laboral, en donde, entre otros conceptos, se puede validar:
         ol.lista-ol--cuadro
           li 
@@ -85,6 +85,51 @@
     .titulo-sexto.color-acento-contenido
       h5 Tabla 1.
       span Valoración de factores 
+
+    .tabla-a.mb-5 
+      table
+        thead
+          tr
+            th(rowspan='2', style="width:10%;") Valoraci&oacute;n
+            th.cell--purpura(colspan='3') Factores
+          tr
+            th.cell--white Frecuencia (F)
+            th.cell--white
+              | Consecuencia por error 
+              br
+              | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;o por omisi&oacute;n
+            th.cell--white Complejidad de la tarea
+        tbody
+          tr.cell--gray
+            td.text-center 5
+            td.text-center  Diaria
+            td
+              | Consecuencias muy graves,&nbsp;&nbsp;&nbsp;afectan en m&uacute;ltiples aspectos a toda la organizaci&oacute;n.
+            td M&aacute;xima complejidad: alto grado&nbsp;&nbsp;&nbsp;de esfuerzo, conocimiento y habilidades.
+          tr
+            td.text-center  4
+            td.text-center  Semanal
+            td
+              | Consecuencias considerables,&nbsp;&nbsp;&nbsp;repercuten en los resultados del trabajo de otros.
+            td Alta complejidad: considerable&nbsp;&nbsp;&nbsp;de esfuerzo, conocimiento y habilidades.
+          tr.cell--gray
+            td.text-center  3
+            td.text-center  Quincenal
+            td
+              | Consecuencias considerables,&nbsp;&nbsp;&nbsp;repercuten en los resultados del trabajo de otros.
+            td Complejidad moderada: grado&nbsp;&nbsp;&nbsp;medio de esfuerzo, conocimiento y habilidades.
+          tr
+            td.text-center  2
+            td.text-center  Mensual
+            td
+              | Consecuencias menores: cierta&nbsp;&nbsp;&nbsp;incidencia en resultados o actividades del mismo puesto.
+            td Baja complejidad: bajo nivel de&nbsp;&nbsp;&nbsp;esfuerzo, conocimiento y habilidades.
+          tr.cell--gray
+            td.text-center  1
+            td.text-center 
+              | Ocasional, intervalo de tiempo&nbsp;&nbsp;&nbsp;irregulares, o trimestrales, semestrales, anuales.
+            td Consecuencias m&iacute;nimas: poca o&nbsp;&nbsp;&nbsp;ninguna incidencia en resultados o actividades.
+            td M&iacute;nima complejidad: m&iacute;nimo nivel&nbsp;&nbsp;&nbsp;de esfuerzo, conocimiento y habilidades.
 
     h3.cstmH3--blue.mb-4 Concepto 4 - Criterios de desempeño   
 
@@ -390,35 +435,35 @@
       p.mb-5 La verificación en el cumplimiento del manual de acuerdo con todas las especificaciones descritas y de la construcción de los diccionarios, se consolida a través de una lista de chequeo y algunos de los siguientes ítems:      
 
       SlyderF.mb-5(columnas="col-lg-6 col-xl-4").mb-5
-        .ctn.crd--purpura.crd--bottomBorad.hy--100
+        .ctn.crd--purpura.crd--brad.hy--100
           .ctn-img_01                   
           .p-4
             ul.fa-ul.mb-0
               li
                 i.fa-li.far.fa-dot-circle 
                 | Identificación correcta del cargo.
-        .ctn.crd--purpura.crd--bottomBorad.hy--100
+        .ctn.crd--purpura.crd--brad.hy--100
           .ctn-img_02                
           .p-4
             ul.fa-ul.mb-0
               li
                 i.fa-li.far.fa-dot-circle 
                 | Coherencia de la misión del cargo con las funciones primarias y el esquema de redacción sugerido.
-        .ctn.crd--purpura.crd--bottomBorad.hy--100
+        .ctn.crd--purpura.crd--brad.hy--100
           .ctn-img_03                   
           .p-4
             ul.fa-ul.mb-0
               li
                 i.fa-li.far.fa-dot-circle 
                 | Las funciones identificadas como principales coinciden con los factores de frecuencia, impacto en el error y complejidad, asimismo, la redacción sugerida.
-        .ctn.crd--purpura.crd--bottomBorad.hy--100
+        .ctn.crd--purpura.crd--brad.hy--100
           .ctn-img_04               
           .p-4
             ul.fa-ul.mb-0
               li
                 i.fa-li.far.fa-dot-circle 
                 | Precisión en la descripción de la naturaleza del cargo acorde con los datos registrados.
-        .ctn.crd--purpura.crd--bottomBorad.hy--100
+        .ctn.crd--purpura.crd--brad.hy--100
           .ctn-img_05              
           .p-4
             ul.fa-ul.mb-0

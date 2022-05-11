@@ -10,18 +10,18 @@
     
     .bg--img_06 
       .row.justify-content-center.mb-5
-        .col-lg-7
+        .col-lg-7.order-2.order-lg-1
           p Las buenas prácticas organizacionales apuntan a la creación de indicadores de gestión para el control y mejora de los procesos. Estos no son indiferentes para estructurar perfiles de cargos según metodologías y normativa que corresponda, buscando mejorar continuamente, con la ponderación de indicadores de eficiencia, eficacia o efectividad que sean necesarios implementar, y proyectando que la empresa logre los objetivos organizacionales planteados en sus diferentes estrategias. 
           p Es necesario plantear un número específico de indicadores que respalden el cumplimiento de la gestión de cada área y sus aspectos críticos o claves. Los indicadores deben contar con las siguientes características:
-        .col-lg-5
+        .col-lg-5.order-1.order-lg-2.mb-4.mb-lg-0
           figure(data-aos="zoom-in")
             img(src="@/assets/curso/tema2/t2_01.png", alt="alt").m-auto
 
       .row.justify-content-center.mb-5
-        .col-lg-6.mb-4.mb-lg-0
+        .col-lg-6.mb-4.mb-lg-0.order-2.order-lg-1
           figure(data-aos="zoom-in")
             img(src="@/assets/curso/tema2/t2_03.png", alt="alt").m-auto
-        .col-lg-6
+        .col-lg-6.order-1.order-lg-2.mb-4.mb-lg-0
           .row.justify-content-center
             .col-12
               .row.justify-content-center
