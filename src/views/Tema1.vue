@@ -93,7 +93,7 @@
             th(rowspan='2', style="width:10%;") Valoraci&oacute;n
             th.cell--purpura(colspan='3') Factores
           tr
-            th.cell--white Frecuencia (F)
+            th.cell--white.text-center Frecuencia (F)
             th.cell--white
               | Consecuencia por error 
               br
@@ -365,7 +365,7 @@
             td Responsabilidades
           tr.cell_gray.text-center
             td Elaborar el desarrollo curricular de la competencia.
-            td A1.<br>Construir las actividades de reflexión
+            td A1.<br>Construir las actividades de reflexión.
             td A2.<br>Construir las actividades de contextualización.
             td A3.<br>Construir las actividades de apropiación.
             td A4.<br>Construir las actividades de transferencia.
@@ -397,6 +397,7 @@
             img(src="@/assets/curso/tema1/t1_32.png", alt="alt").img400.m-auto
         .col-lg-8  
           p Este concepto busca ponderar los criterios integrales al cumplimiento del perfil laboral por parte de los empleados. Acá se puede ubicar el mejor capital humano de acuerdo con las capacidades que tiene; esta ponderación parte de categorizar diferentes criterios que determine la organización, un ejemplo se desarrolla en escala de 0 a 100, categorizando el grado, los conocimientos básicos, la educación y la experiencia, en donde el resultado de la ponderación de los cuatro criterios señalados dé un total de 100 puntos que permitirán evaluar en cada uno de los ítems el perfil del empleado a ocupar en los diferentes puestos de la organización.
+          p Así mismo, se proyectarán las estrategias para el mejoramiento del perfil, porque la escala de 0 a 100 permitirá clasificar el capital humano en rangos de perfiles como debilidad, avance, ajustado y fortaleza.
 
           .cajon.cjn--purpura.p-4.mb-4
             p.mb-0 Nota: las ocho características que individualizan los cargos y que se requieren para el cumplimiento de objetivos de la organización expuestas anteriormente, son criterios generales, y estas pueden ser adaptadas a necesidad particulares de cada organización, no obstante, lo que se busca es integrar criterios que permitan enfocar perfiles laborales que potencien los objetivos propuestos para el desarrollo de los procedimientos, los procesos y la consecución de los objetivos misionales. 

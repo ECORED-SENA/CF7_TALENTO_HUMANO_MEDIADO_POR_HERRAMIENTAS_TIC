@@ -45,13 +45,13 @@ export default {
         nombreRuta: 'tema2',
         icono: 'far fa-file-alt',
         numero: '2',
-        titulo: 'Documentación y su estructura',
+        titulo: 'Indicadores y análisis',
         desarrolloContenidos: true,
         subMenu: [
           {
             icono: 'far fa-file-alt',
             numero: '2.1',
-            titulo: 'Indicadores y análisis',
+            titulo: 'Indicadores de gestión',
             hash: 't_2_1',
           },
           {
@@ -66,7 +66,7 @@ export default {
     subMenu: [
       {
         icono: 'fas fa-sitemap',
-        titulo: 'Sintesis',
+        titulo: 'Síntesis',
         nombreRuta: 'sintesis',
       },
       {
@@ -135,7 +135,7 @@ export default {
     },
     {
       referencia:
-        'Mejía, M. L. (2004). Estructuras y cargos por procesos, orientados a resultados. <i>Scientia et technica</i>, 10(25), 2003-208',
+        'Mejía, M. L. (2004). Estructuras y cargos por procesos, orientados a resultados. <i>Scientia et technica</i>, 10(25), 2003-208.',
       link: '',
     },
     {
@@ -213,7 +213,8 @@ export default {
       link: 'https://www.youtube.com/watch?v=86whkhE_Dwo',
     },
     {
-      texto: 'Virtual Training Lteam. (2016). <i>Indicadores de gestión.</i>',
+      texto:
+        '<i>Virtual Training Lteam</i>. (2016). <i>Indicadores de gestión.</i>',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=91b3REuGMTs',
     },

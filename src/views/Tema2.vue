@@ -178,7 +178,7 @@
             figure
               img(src='@/assets/curso/tema2/t2_20.svg', alt='').img325.m-auto   
           .col-lg-8
-            p Defina la fórmula del indicador y realice ejercicios prácticos previamente. (variable medida/variable esperada).
+            p Defina la fórmula del indicador y realice ejercicios prácticos previamente (variable medida/variable esperada).
 
         .row(titulo="5").justify-content-center.align-items-center  
           .col-lg-4.mb-4.mb-lg-0
