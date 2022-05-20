@@ -431,8 +431,9 @@
 
       figure.mb-5
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)  
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/3KDDv2LrIcE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)       
       
+
       p.mb-5 La verificación en el cumplimiento del manual de acuerdo con todas las especificaciones descritas y de la construcción de los diccionarios, se consolida a través de una lista de chequeo y algunos de los siguientes ítems:      
 
       SlyderF.mb-5(columnas="col-lg-6 col-xl-4").mb-5
