@@ -247,12 +247,12 @@ export default {
       },
       {
         nombre: 'Ana Catalina Córdoba Sus',
-        cargo: 'Asesora Metodológica',
+        cargo: 'Asesora metodológica',
         centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
       },
       {
         nombre: 'José Gabriel Ortiz Abella',
-        cargo: 'Asesora Metodológica',
+        cargo: 'Asesora metodológica',
         centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
       },
     ],
@@ -276,7 +276,7 @@ export default {
       },
       {
         nombre: 'Magdi Khalifah',
-        cargo: 'Desarrollo Front-End',
+        cargo: 'Desarrollo front-end',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
