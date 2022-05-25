@@ -79,7 +79,7 @@
                   img(src="@/assets/curso/square_09.svg", alt="alt").img25.m-auto
               .col
                 p.mb-0 Cada área debe identificar sus indicadores de gestión y, a su vez, para cada cargo. Los indicadores del cargo deben especificarse dentro del manual de funciones y competencias como parte de la información que debe tener el empleado acerca de lo que se espera de él en desempeño de su cargo.
-          p Así mismo, en los resultados de las mediciones en los diferentes procesos o áreas, se deben enfocar estrategias para evidenciar los resultados obtenidos en la gestiones adelantadas, por esto los análisis de información juegan un papel trascendental en el desarrollo organizacional, porque en muchas ocasiones los análisis incorrectos de las herramientas de medición afectan el logro de objetivos. 
+          p Así mismo, en los resultados de las mediciones en los diferentes procesos o áreas, se deben enfocar estrategias para evidenciar los resultados obtenidos en las gestiones adelantadas, por esto los análisis de información juegan un papel trascendental en el desarrollo organizacional, porque en muchas ocasiones los análisis incorrectos de las herramientas de medición afectan el logro de objetivos. 
 
           p.mb-0 Un ejemplo de esto se ve muy comúnmente en algunas organizaciones de carácter público, debido a que su misión va enfocada a la satisfacción de bienes o servicios sin ánimo de lucro, por ende, son vulnerables a la ubicación de perfiles sin estudios rigurosos o sin la potenciación de las capacidades o cualidades del empleado, lo que afecta la potenciación de los objetivos propuestos organizacionalmente.
 
@@ -228,7 +228,7 @@
 
     .row.justify-content-center.mb-5
       .col-lg-6.order-2.order-lg-1
-        p Se debe tener en cuenta que para evaluar el resultado de cualquier desempeño, en este caso específico el manual de funciones, un manera correcta puede ser aplicar los mecanismos y las  técnicas vistas a lo largo del presente componente formativo; no obstante, es importante señalar que las organizaciones cuentan con mecanismos, como los diferentes comités de gestión humana o comités estratégicos, y los resultados de estos deben reflejar un análisis de la proyecciones, propuestas, necesidades, aprobación o no de personal, entre muchas otras, emitiendo informes de evaluación, los cuales, entre muchas características, deben estar fortalecidos por componentes de análisis. 
+        p Se debe tener en cuenta que para evaluar el resultado de cualquier desempeño, en este caso específico el manual de funciones, una manera correcta puede ser aplicar los mecanismos y las  técnicas vistas a lo largo del presente componente formativo; no obstante, es importante señalar que las organizaciones cuentan con mecanismos, como los diferentes comités de gestión humana o comités estratégicos, y los resultados de estos deben reflejar un análisis de las proyecciones, propuestas, necesidades, aprobación o no de personal, entre muchas otras, emitiendo informes de evaluación, los cuales, entre muchas características, deben estar fortalecidos por componentes de análisis. 
         p.mb-0 Para estos ejercicios, los siguientes elementos permitirán potenciar esta característica:
       .col-lg-6.order-1.order-lg-2.mb-4.mb-lg-0
         figure(data-aos="zoom-in")

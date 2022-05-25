@@ -30,7 +30,7 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '1.1',
-            titulo: 'Procedimiento',
+            titulo: 'Clasificación de procesos',
             hash: 't_1_1',
           },
           {
@@ -166,7 +166,7 @@ export default {
         'habilidades de tipo físico, ejemplo, motricidad, agudeza visual, reparación de objetos, etc.',
     },
     {
-      termino: 'Efectividad ',
+      termino: 'Efectividad',
       significado:
         'mide el impacto del indicador frente al cumplimiento del objetivo o también se puede ver como la combinación entre la eficiencia y la eficacia.',
     },
